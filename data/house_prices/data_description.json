@@ -495,7 +495,7 @@
   { "feature": "FullBath", "description": "Full bathrooms above grade" },
   { "feature": "HalfBath", "description": "Half baths above grade" },
   {
-    "feature": "Bedroom",
+    "feature": "BedroomAbvGr",
     "description": "Bedrooms above grade (does NOT include basement bedrooms)"
   },
   { "feature": "KitchenAbvGr", "description": "Kitchens above grade" },

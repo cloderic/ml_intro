@@ -498,7 +498,7 @@
     "feature": "Bedroom",
     "description": "Bedrooms above grade (does NOT include basement bedrooms)"
   },
-  { "feature": "Kitchen", "description": "Kitchens above grade" },
+  { "feature": "KitchenAbvGr", "description": "Kitchens above grade" },
   {
     "feature": "KitchenQual",
     "description": "Kitchen quality",
